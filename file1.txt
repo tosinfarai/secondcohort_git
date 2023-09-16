@@ -1,3 +1,4 @@
 Hello, my name is Joshua
 
 This is an EC2 instance
+t2.large 
